@@ -1,0 +1,9 @@
+Experiment,Result
+Best Linear Regression Target,Blind (R2 = 0.9912)
+Best Random Forest Target,Blind (R2 = 0.9686)
+Top SHAP Feature,Suitability
+SHAP Rank Stability,Spearman correlation = 1.0
+Gender Counterfactual,200 out of 200 changed
+Ethnicity Counterfactual,399 out of 400 changed
+Gender MAE Gap,0.000493
+Ethnicity MAE Gap,0.001032

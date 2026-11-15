@@ -1,0 +1,7 @@
+Metric,Result
+Top feature - Random Forest,Suitability
+Top feature - Linear Regression,Suitability
+Spearman rank correlation,1.0
+Number of features compared,9
+Number of matching feature ranks,9
+SHAP sample size,200

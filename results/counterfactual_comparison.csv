@@ -1,0 +1,3 @@
+Demographic Feature,Mean Absolute Change,Maximum Change,Changed Predictions,Total Comparisons,Percentage Affected
+Gender,0.0032873367337060743,0.015883861116407938,200,200,100.0
+Ethnicity,0.0028868459514082346,0.014995551461833068,399,400,99.75
